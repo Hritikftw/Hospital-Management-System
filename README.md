@@ -6,7 +6,6 @@ A web based Hospital Patient Record Management System project.
 * Patient Appointment 
 * Doctor Prescription
 * Billing
-* 
 * Patient Login
 * Doctor Login
 * Employee Login
